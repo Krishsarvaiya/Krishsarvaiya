@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Krish Sarvaiya 👋 <br>💻 B.Tech IT Student | <br>🔐 Cybersecurity <br> 🚀 Learning Secure Coding 🕵️ |<br><br><br>i am learning  Machine machine learning <br>have basics in cybersecurity <br>currently learning Ethical Hacking 
+Hi, I’m Krish Sarvaiya 👋 <br>💻 B.Tech IT Student | <br>🔐 Cybersecurity <br> 🚀 Learning Secure Coding 🕵️ |<br><br><br>I am Currently learning  Machine learning <br>and have basics in Cybersecurity <br>also building Basics in Ethical Hacking.
 
 
 ## 🌐 Socials:
