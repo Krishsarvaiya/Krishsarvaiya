@@ -3,17 +3,17 @@
 💻 **B.Tech IT Student**  
 🔐 **Cybersecurity Learner | Ethical Hacking Enthusiast**  
 🤖 Exploring **Machine Learning in Cybersecurity**  
-🚀 Focused on **Web Security, Network Security & Secure Coding**
+🚀 Passionate about **Secure Coding, Threat Detection & Web Security**
 
 ---
 
 # 🚀 About Me
 
 - 🎓 B.Tech in Information Technology  
-- 🔐 Actively learning **Cybersecurity & Ethical Hacking (Hands-on)**  
-- 🧠 Exploring **ML-based Threat Detection**  
-- 🛠 Building **Security + AI based projects**  
-- 📚 Practicing on platforms like **TryHackMe**
+- 🔐 Learning **Cybersecurity & Ethical Hacking (Hands-on)**  
+- 🤖 Exploring **Machine Learning for Security Applications**  
+- 🧠 Interested in **Threat Detection, Malware Analysis & Network Security**  
+- 🛠 Building projects combining **Security + AI + DevOps**  
 
 ---
 
@@ -29,58 +29,83 @@
 
 # 💻 Tech Stack
 
-## 👨‍💻 Programming
+## 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 🔐 Cybersecurity Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge)
+## 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
 
 ---
 
-## 🤖 Machine Learning
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge)
+## 🤖 Machine Learning / Data Science
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ---
 
-## ☁️ DevOps / Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge)
+## ☁️ DevOps / Containerization
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
 
-## 🧰 Development Tools
-![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge)
+## 🧰 Development Tools / IDE
+![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+## 🗄 Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## ⚙️ Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 💻 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+# 🎯 Cybersecurity Platforms
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco_Networking-049fd9?style=for-the-badge)
+![Cybrary](https://img.shields.io/badge/Cybrary-00A4EF?style=for-the-badge)
 
 ---
 
 # 🔐 Cybersecurity Focus
 
 - Web Application Security  
-- Network Scanning & Analysis  
+- Network Security & Packet Analysis  
 - Vulnerability Assessment  
 - Secure Coding Practices  
 - Phishing Detection using ML  
@@ -89,14 +114,9 @@
 
 # 📂 Featured Projects
 
-🔎 **Phishing URL Detection (ML)**  
-- Detects phishing websites using ML models  
-
-🛡 **TryHackMe Cybersecurity Notes**  
-- Documenting hands-on labs and learnings  
-
-🌐 **Networking & Packet Analysis**  
-- Wireshark + Nmap practical implementations  
+🔎 **Phishing URL Detection using Machine Learning**  
+🛡 **TryHackMe Cybersecurity Notes Repository**  
+📡 **Networking & Packet Analysis (Wireshark + Nmap)**  
 
 ---
 
@@ -125,7 +145,7 @@
 # 🚀 Current Learning
 
 - 🔐 Web Exploitation (XSS, SQLi, Auth bypass)  
-- 🛠 Burp Suite Practical Usage  
+- 🛠 Burp Suite Hands-on  
 - 📡 Network Traffic Analysis  
 - 🐳 Docker-based Security Labs  
 
