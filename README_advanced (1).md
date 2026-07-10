@@ -96,12 +96,12 @@
 
 | Certification | Issuer | Date |
 |---|---|---|
-| [Cloud Computing & Distributed Systems (Elite)](#) | NPTEL / IIT Kanpur | Jan–Mar 2026 |
-| [Introduction to Cybersecurity](#) | Cisco Networking Academy | Aug 2025 |
-| [Networking Basics](#) | Cisco Networking Academy | Feb 2026 |
-| [Getting Started with Cisco Packet Tracer](#) | Cisco Networking Academy | Jan 2026 |
-| [Cyber Security 101](#) | TryHackMe | — |
-| [Python Programming](#) | Spoken Tutorial Project, IIT Bombay | May 2025 |
+| [Cloud Computing & Distributed Systems (Elite)](https://drive.google.com/file/d/1P1Muq6AfW6UPz9NPDo7TuTeINx4Rg2AL/view?usp=drive_link) | NPTEL / IIT Kanpur | Jan–Mar 2026 |
+| [Introduction to Cybersecurity](https://drive.google.com/file/d/1cX9Kv0vGzjOPxAsET_xST01borIEP9J8/view?usp=drive_link) | Cisco Networking Academy | Aug 2025 |
+| [Networking Basics](https://drive.google.com/file/d/13MlE13D6lj_Yjm9wXi6N01gVDE8h6_tE/view?usp=drive_link) | Cisco Networking Academy | Feb 2026 |
+| [Getting Started with Cisco Packet Tracer](https://drive.google.com/file/d/1xmdtksDMKs0LZzlZXjMVr6oRsOEEmCHc/view?usp=drive_link) | Cisco Networking Academy | Jan 2026 |
+| [Cyber Security 101](https://drive.google.com/file/d/11AxG0eha6ABIMvA0qkvyeoPQ5HPhYDvx/view?usp=drive_link) | TryHackMe | June 2026 |
+| [Python Programming](https://drive.google.com/file/d/1Pcsws-VPWHaoNq-ETyZxGhafTKVA--vP/view?usp=drive_link) | Spoken Tutorial Project, IIT Bombay | May 2025 |
 
 > 📌 Replace the `#` in each link with your actual credential URL — see below for where to find each one.
 
