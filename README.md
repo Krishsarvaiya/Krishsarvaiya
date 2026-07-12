@@ -14,35 +14,35 @@
 
 ---
 
-## 🛡️ About Me
+##  About Me
 
-- 🎓 Final-Year B.Tech Information Technology Student
-- 🔐 Cybersecurity intern, hands-on with real-world detection & DLP tooling
-- 🤖 Building AI-powered security applications — anomaly detection, DLP, secure health tech
-- 🎯 Actively training in offensive security through **TryHackMe** & **Hack The Box**
-- 🔍 Focused on **SOC Operations, Detection Engineering, Penetration Testing & Digital Forensics**
+-  Final-Year B.Tech Information Technology Student
+-  Cybersecurity intern, hands-on with real-world detection & DLP tooling
+-  Building AI-powered security applications — anomaly detection, DLP, secure health tech
+-  Actively training in offensive security through **TryHackMe** & **Hack The Box**
+-  Focused on **SOC Operations, Detection Engineering, Penetration Testing & Digital Forensics**
 
 ---
 
-## 🎯 Open To
+##  Open To
 
 `SOC Analyst` · `SOC Engineer` · `Detection Engineer` · `Security Engineer` · `Penetration Tester` · `Cybersecurity Internships`
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛡️ **NOGINX** | Real-time NGINX log anomaly detection framework using Isolation Forest, statistical feature engineering, async log streaming, and signature-independent intrusion detection | Python · FastAPI · Isolation Forest · Docker |
-| 🔐 **SecureVault** | Secure file storage platform with JWT auth, AES-256 encryption, SHA-256 integrity checks, ClamAV malware scanning, and audit logging | FastAPI · JWT · AES-256 · SHA-256 · ClamAV |
-| 📋 **Clipboard Security Monitor (DLP)** | AI-assisted clipboard Data Loss Prevention engine — regex pattern matching, Shannon entropy analysis, contextual NLP classification, real-time interception | Python · Regex · Shannon Entropy · NLP |
-| 🩺 **MedVault** | Secure healthcare platform with FastAPI microservices, Flutter client, TrOCR/OpenCV-powered OCR, GPT-4o clinical summarization, and AES-256 encrypted records | FastAPI · Flutter · GPT-4o · AES-256 · TrOCR · OpenCV |
-| 🎯 **Phishing URL Detection** | ML-driven phishing URL detector using TF-IDF feature engineering, XGBoost classification, and imbalance-aware training | Python · XGBoost · TF-IDF · Flask |
-| 🔑 **Password Strength Checker** | Spring Boot password security service with entropy analysis, policy-based validation, and real-time strength assessment via REST API | Spring Boot · Java · REST API |
-| 📧 **SMS & Email Spam Classifier** | NLP pipeline using TF-IDF vectorization and Multinomial Naive Bayes, served through an interactive Streamlit interface | Python · NLP · Naive Bayes · Streamlit |
-| 🔒 **Secure File Hider** | Java desktop app for authenticated, encrypted file management with JDBC persistence and role-based access control | Java · JDBC · RBAC |
-| 📚 **TryHackMe Walkthroughs & Cheat Sheets** | Documented hash-cracking workflows (John the Ripper, unshadow, zip/rar/ssh2john) and Metasploit fundamentals (msfconsole, Meterpreter, db_nmap) | Kali Linux · John the Ripper · Metasploit · Nmap |
+|  **NOGINX** | Real-time NGINX log anomaly detection framework using Isolation Forest, statistical feature engineering, async log streaming, and signature-independent intrusion detection | Python · FastAPI · Isolation Forest · Docker |
+|  **SecureVault** | Secure file storage platform with JWT auth, AES-256 encryption, SHA-256 integrity checks, ClamAV malware scanning, and audit logging | FastAPI · JWT · AES-256 · SHA-256 · ClamAV |
+|  **Clipboard Security Monitor (DLP)** | AI-assisted clipboard Data Loss Prevention engine — regex pattern matching, Shannon entropy analysis, contextual NLP classification, real-time interception | Python · Regex · Shannon Entropy · NLP |
+|  **MedVault** | Secure healthcare platform with FastAPI microservices, Flutter client, TrOCR/OpenCV-powered OCR, GPT-4o clinical summarization, and AES-256 encrypted records | FastAPI · Flutter · GPT-4o · AES-256 · TrOCR · OpenCV |
+|  **Phishing URL Detection** | ML-driven phishing URL detector using TF-IDF feature engineering, XGBoost classification, and imbalance-aware training | Python · XGBoost · TF-IDF · Flask |
+|  **Password Strength Checker** | Spring Boot password security service with entropy analysis, policy-based validation, and real-time strength assessment via REST API | Spring Boot · Java · REST API |
+|  **SMS & Email Spam Classifier** | NLP pipeline using TF-IDF vectorization and Multinomial Naive Bayes, served through an interactive Streamlit interface | Python · NLP · Naive Bayes · Streamlit |
+|  **Secure File Hider** | Java desktop app for authenticated, encrypted file management with JDBC persistence and role-based access control | Java · JDBC · RBAC |
+|  **TryHackMe Walkthroughs & Cheat Sheets** | Documented hash-cracking workflows (John the Ripper, unshadow, zip/rar/ssh2john) and Metasploit fundamentals (msfconsole, Meterpreter, db_nmap) | Kali Linux · John the Ripper · Metasploit · Nmap |
 
 ---
 
@@ -92,7 +92,7 @@
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 | Certification | Issuer | Date |
 |---|---|---|
@@ -102,8 +102,6 @@
 | [Getting Started with Cisco Packet Tracer](https://drive.google.com/file/d/1xmdtksDMKs0LZzlZXjMVr6oRsOEEmCHc/view?usp=drive_link) | Cisco Networking Academy | Jan 2026 |
 | [Cyber Security 101](https://drive.google.com/file/d/11AxG0eha6ABIMvA0qkvyeoPQ5HPhYDvx/view?usp=drive_link) | TryHackMe | June 2026 |
 | [Python Programming](https://drive.google.com/file/d/1Pcsws-VPWHaoNq-ETyZxGhafTKVA--vP/view?usp=drive_link) | Spoken Tutorial Project, IIT Bombay | May 2025 |
-
-> 📌 Replace the `#` in each link with your actual credential URL — see below for where to find each one.
 
 ---
 📊 GitHub Analytics
